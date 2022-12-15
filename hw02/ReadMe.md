@@ -41,3 +41,25 @@ Due to the way the program reads inputs, you must hit ENTER after every input to
 
 11. What's the shortest period you can get?
     - 20ns
+
+
+    # hw02 grading
+
+| Points      | Description |
+| ----------- | ----------- |
+|  2/2 | Buttons and LEDs 
+|  8/8 | Etch-a-Sketch works
+|      | Measuring a gpio pin on an Oscilloscope 
+|  2/2 | Questions answered
+|  4/4 | Table complete
+|  0/2 | gpiod
+|      | Security
+|  0/1 | ssh port 
+|  0/1 | fail2ban
+| 16/20   | **Total**
+
+
+Max voltage seems too small.  81 ns period is way too small. What were you measuring?
+
+I'm suprised c 2-bit is faster than python 2-bit.  Looks like you didn't do python with gpiod.
+
