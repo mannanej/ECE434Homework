@@ -18,3 +18,17 @@ The program will now display in the terminal and on the LED matrix.
 
 For the temperature sensors, I used TMP101.sh to run the actual commands to read the inputs, then I used TMP101.py to read the bash file.
 The sensor seems to work fine enough, but I couldn't seem to get the High and Low temps to set correctly. Everything else seems to work fine.
+
+# hw03 grading
+
+| Points      | Description | | |
+| ----------- | ----------- |-|-|
+|  8/8 | TMP101 
+|  2/2 |   | Documentation 
+|  5/5 | Etch-a-Sketch
+|  3/3 |   | setup.sh | *Nice use of call() to auto setup*
+|  2/2 |   | Documentation
+| 20/20 | **Total**
+
+*My comments are in italics. --may*
+
