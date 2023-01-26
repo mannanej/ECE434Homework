@@ -7,3 +7,18 @@ The hello.ko file now says Hello and Goodbye to EddieMannan.
 The gpio_test.c file is set to use two buttons, two LEDs, and use the make file.
 
 I think the Homework 5 file says that this qualifies as a C, and I think that would be best concidering how far behind I am with my computer dying and all.
+
+# hw05 grading
+
+| Points      | Description |
+| ----------- | ----------- |
+|  0/0 | Project 
+|  2/2 | Makefile
+|  6/6 | Kernel Source
+|  0/4 | Etch-a-Sketch
+|  8/8 | Kernel Modules: hello, ebbchar, gpio_test, led
+|  0/4 | Extras - Blink at different rates
+| 14/20 | **Total**
+Late: -2
+*My comments are in italics. --may*
+
